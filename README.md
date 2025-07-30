@@ -167,6 +167,9 @@
     <a href="https://nischay-bandodiya-portfolio.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white"/>
     </a>
+    <a href="https://dev.to/nischayb99" target="_blank">
+      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+    </a>
   </p>
 </div>
 
