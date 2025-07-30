@@ -124,10 +124,10 @@
 ## 🔥 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Nischayb99/project1">
+  <a href="https://github.com/Nischayb99/Bizlo">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nischayb99&repo=project1&theme=react&border_radius=10" />
   </a>
-  <a href="https://github.com/Nischayb99/project2">
+  <a href="https://github.com/Nischayb99/Snake-Game-2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nischayb99&repo=project2&theme=react&border_radius=10" />
   </a>
 </div>
